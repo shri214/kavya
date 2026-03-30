@@ -16,17 +16,7 @@ const firebaseConfig = {
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-// const firebaseConfig = {
-//   apiKey: "AIzaSyBRZTc5kvaQe1hOkumUe_rGeVE3CFccf-g",
-//   authDomain: "proposal-92705.firebaseapp.com",
-//   projectId: "proposal-92705",
-//   storageBucket: "proposal-92705.firebasestorage.app",
-//   messagingSenderId: "754961008627",
-//   appId: "1:754961008627:web:5dccd93c8b4d10b955f486",
-//   measurementId: "G-ZNWLGYEYF8"
-// };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
